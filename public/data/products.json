@@ -1,0 +1,205 @@
+ [
+  {
+    "id": 1,
+    "title": "Stone and Beam Westview ",
+    "image": "/images/double-sofa-01.png",
+    "category": "sofa",
+    "price": 193,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 2,
+    "title": "Rivet Bigelow Modern ",
+    "image": "/images/double-sofa-02.png",
+    "category": "sofa",
+    "price": 253,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 3,
+    "title": "Amazon Brand Modern Sofa",
+    "image": "/images/double-sofa-03.png",
+    "category": "sofa",
+    "price": 173,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 4,
+    "title": "Fllufy Sheep Sofa",
+    "image": "/images/single-sofa-01.png",
+    "category": "sofa",
+    "price": 163,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 5,
+    "title": "Faux Velvet Sofa",
+    "image": "/images/single-sofa-02.png",
+    "category": "sofa",
+    "price": 163,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 6,
+    "title": "Fllufy Sheep Sofa",
+    "image": "/images/single-sofa-03.png",
+    "category": "sofa",
+    "price": 163,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+  {
+    "id": 7,
+    "title": "Sakarias Armchair",
+    "image": "/images/single-sofa-04.png",
+    "category": "chair",
+    "price": 99,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 8,
+    "title": "Modern Arm Sofa",
+    "image": "/images/single-sofa-05.png",
+    "category": "sofa",
+    "price": 173,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 9,
+    "title": "Baltsar Chair",
+    "image": "/images/arm-chair-1.png",
+    "category": "chair",
+    "price": 89,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 10,
+    "title": "Helmar Chair",
+    "image": "/images/arm-chair-2.png",
+    "category": "chair",
+    "price": 112,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 11,
+    "title": "Apple iPhone 12 Pro",
+    "image": "/images/phone-01.png",
+    "category": "mobile",
+    "price": 799,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+  {
+    "id": 12,
+    "title": "Sakarias Armchair",
+    "image": "/images/arm-chair-4.png",
+    "category": "sofa",
+    "price": 99,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+  {
+    "id": 13,
+    "title": "Apple iPhone 12 Max",
+    "image": "/images/phone-02.png",
+    "category": "mobile",
+    "price": 799,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 14,
+    "title": "Realme 8",
+    "image": "/images/phone-03.png",
+    "category": "mobile",
+    "price": 599,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 15,
+    "title": "One Plus Nord",
+    "image": "/images/phone-04.png",
+    "category": "mobile",
+    "price": 799,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 16,
+    "title": "Apple iPhone 13 Pro",
+    "image": "/images/phone-05.png",
+    "category": "mobile",
+    "price": 899,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 17,
+    "title": "Samsung Galaxy S22",
+    "image": "/images/phone-06.png",
+    "category": "mobile",
+    "price": 699,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 18,
+    "title": "Rolex Watch",
+    "image": "/images/watch-01.png",
+    "category": "watch",
+    "price": 299,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 19,
+    "title": "Timex Easy Reader Watch",
+    "image": "/images/watch-02.png",
+    "category": "watch",
+    "price": 299,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 20,
+    "title": "Rolex Watch",
+    "image": "/images/watch-03.png",
+    "category": "watch",
+    "price": 299,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 21,
+    "title": "Apple Watch",
+    "image": "/images/watch-04.png",
+    "category": "watch",
+    "price": 399,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 22,
+    "title": "Beat Studio Wireless",
+    "image": "/images/wireless-01.png",
+    "category": "wireless",
+    "price": 199,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  },
+
+  {
+    "id": 23,
+    "title": "Beat EP Headphones",
+    "image": "/images/wireless-02.png",
+    "category": "wireless",
+    "price": 199,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque en onsequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!"
+  }
+]
